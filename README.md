@@ -19,3 +19,11 @@ Repository to record some useful API.
 - Provide world-wide time data for any location.
 - Fast response.
 - Great documentation.
+
+### [Tomorrow.io](https://www.tomorrow.io/)
+- Realtime weather.
+- Weather forecast.
+- Historical weather.
+- 3 requests per second (Free plan).
+- 25 requests per hour (Free plan).
+- 500 requests per day (Free plan).
