@@ -14,3 +14,8 @@ Repository to record some useful API.
 - Use IP to find out location.
 - Sign-up required.
 - No limit to use.
+
+### [TimeAPI](https://timeapi.io/)
+- Provide world-wide time data for any location.
+- Fast response.
+- Great documentation.
